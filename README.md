@@ -12,5 +12,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
