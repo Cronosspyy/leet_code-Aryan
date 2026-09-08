@@ -21,9 +21,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0268-missing-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
