@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Cronosspyy/leet_code-Aryan/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
