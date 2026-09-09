@@ -1,7 +1,10 @@
 class Solution(object):
     def twoSum(self, nums, target):
         n = len(nums)
-        for i in range(0,n-1):
-            for j in range(i+1,n):
-                if nums[i]+nums[j] == target:
-                    return [i,j]
+        hash_map ={}
+        for i in range(0,n):
+            remain = target - nums[i]
+            if remain in hash_map:
+                return [hash_map[remain],i]
+            hash_map[nums[i]] = i
+        
